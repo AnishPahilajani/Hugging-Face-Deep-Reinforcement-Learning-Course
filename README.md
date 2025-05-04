@@ -21,6 +21,5 @@ This repository contains my completed work for the [Deep Reinforcement Learning 
 
 ## 🛠️ Implemented Algorithms
 
-- REINFORCE 
-- DQN
-- PPO with Hugging Face 🤗 Hub integration
+- REINFORCE Unit 4
+- PPO Unit 8
