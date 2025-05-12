@@ -4,7 +4,7 @@ This repository contains my completed work for the [Deep Reinforcement Learning 
 
 ## 📜 Certificate
 
-![View Certificate](./certificate.pdf)
+   <iframe src="./certificate.pdf" width="600" height="400"></iframe>
 
 ## ✅ Completed Units
 
